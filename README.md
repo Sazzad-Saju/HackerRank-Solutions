@@ -1,4 +1,4 @@
-# HackerRank-Solutions
+# JavaScriipt-Basic
 
 | SN | Title |
 | --- | --- |
