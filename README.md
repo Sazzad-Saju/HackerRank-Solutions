@@ -10,5 +10,5 @@
 | 06 | Staff List |
 | 07 | Step Counter |
 | 08 | Strip Property |
-| 09 | <a href = "https://www.scribd.com/document/536770136/JavaScript-Basic-Assesment" > Problem Descriptions </a> |
+| 09 | <a href = "https://smallpdf.com/file#s=6744d6c5-035f-4857-98a0-778307d57788" > Problem Descriptions </a> |
 
