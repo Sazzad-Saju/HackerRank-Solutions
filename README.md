@@ -1,4 +1,4 @@
-# JavaScriipt-Basic
+# JavaScript-Basic
 
 | SN | Title |
 | --- | --- |
